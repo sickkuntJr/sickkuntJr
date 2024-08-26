@@ -1,6 +1,6 @@
 # About I, me.
 
-*Currently working as a graduate student in synthetic chemistry.*
+Currently working as a graduate student in synthetic chemistry.
 
 **sickkuntJr/sickkuntJr** is a very ✨ _special_ ✨ kid! - *well thanks github, very nice prompt*
 
