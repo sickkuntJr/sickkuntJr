@@ -1,9 +1,9 @@
 # About I, me.
 
-Currently working as a graduate student in synthetic chemistry.
+Drop-out graduate student in synthetic chemistry. factorioIRL CEO
 
 **sickkuntJr/sickkuntJr** is a very ✨ _special_ ✨ kid! - *well thanks github, very nice prompt*
 
-- 🔭 Learning to web scrape effectively to build databases for eventual ML purposes.
-- 🌱 I also take interest in generative models to automate certain tools.
-- ⚡ I'd like to collaborate on factory building games that involve chemistry, or a mod thereof. 
+- 🔭 Building ML stuff to automate chemistry.
+- 🌱 Building myself tools to automate my work at every occasions I get.
+- ⚡ Building games.
